@@ -28,7 +28,7 @@ Built entirely with Python (no Jupyter notebooks!), this repository includes:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 ckd-predictor-deep-learning/
@@ -48,7 +48,7 @@ ckd-predictor-deep-learning/
 
 ---
 
-## ⚙️ How to Run the Project
+##  How to Run the Project
 
 1. **Clone the repository**
 
@@ -78,7 +78,7 @@ python main.py
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 * Source: [UCI CKD Dataset](https://archive.ics.uci.edu/ml/datasets/chronic_kidney_disease)
 * 400 records with 24 features

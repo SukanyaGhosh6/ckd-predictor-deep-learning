@@ -86,7 +86,7 @@ python main.py
 
 ---
 
-## 📈 Model Performance
+##  Model Performance
 
 | Metric    | Value |
 | --------- | ----- |

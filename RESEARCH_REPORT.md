@@ -4,9 +4,6 @@
 
 Chronic Kidney Disease (CKD) is a silent yet severe condition that progresses over time and can lead to kidney failure if not detected early. Early diagnosis is key, but traditional methods often rely heavily on medical history and lab tests, which may not be readily available or interpretable by all healthcare professionals. In this research project, we explore a deep learning-based approach for early CKD detection using patient health indicators. Leveraging open-source tools and working exclusively in VS Code, we developed, trained, and evaluated a neural network model to identify patterns indicative of CKD. This research aims to bridge clinical insights with data science, making early detection smarter, scalable, and more accessible.
 
-## Repository Name Suggestion
-
-`ckd-predictor-deep-learning`
 
 GitHub Repository: [github.com/SukanyaGhosh6/ckd-predictor-deep-learning](https://github.com/SukanyaGhosh6/ckd-predictor-deep-learning)
 

@@ -1,4 +1,4 @@
-**Early Detection of Chronic Kidney Disease Using Deep Learning: A Structured Data-Based Approach**
+**Early Detection of Chronic Kidney Disease Using Deep Learning**
 
 ## Abstract
 

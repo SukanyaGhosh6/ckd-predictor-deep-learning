@@ -132,7 +132,3 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 * [SHAP GitHub](https://github.com/slundberg/shap)
 * [National Kidney Foundation](https://www.kidney.org/)
 
----
-
-> **Note:** This model is a prototype and not intended for clinical use. Always consult a healthcare professional.
-

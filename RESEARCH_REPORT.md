@@ -31,12 +31,6 @@ Ultimately, this study contributes to the growing body of research that harnesse
 
 ## 2. Objectives
 
-Absolutely, here's the revised and expanded version of your objectives, clearly written in a way that sounds like your own voice, without any mention of Jupyter notebooks:
-
----
-
-## 2. Objectives
-
 The purpose of this project is to design and build an effective, interpretable deep learning model for the early detection of Chronic Kidney Disease (CKD), using structured clinical data. Throughout the project, my focus has been on practicality, transparency, and accessibility. Here are the key objectives that guided my work:
 
 * **Design a reliable neural network for early-stage CKD prediction**

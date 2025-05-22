@@ -63,19 +63,15 @@ The dataset contains both numeric and categorical variables, and missing values 
 * **Framework**: TensorFlow (Keras API)
 * **Architecture**:
 
-  ```
-  Input Layer: 24 neurons
-  Hidden Layer 1: Dense (64 units), ReLU
-  Dropout Layer: 20%
-  Hidden Layer 2: Dense (32 units), ReLU
-  Output Layer: 1 unit (Sigmoid)
-  ```
+  * Input Layer: 24 neurons
+  * Hidden Layer 1: Dense (64 units), ReLU
+  * Dropout Layer: 20%
+  * Hidden Layer 2: Dense (32 units), ReLU
+  * Output Layer: 1 unit (Sigmoid)
 * **Loss Function**: Binary Crossentropy
 * **Optimizer**: Adam
 * **Evaluation Metrics**: Accuracy, Precision, Recall, F1 Score, ROC AUC
 * **Early Stopping**: Based on validation loss to prevent overfitting
-
-![Model Architecture](https://user-images.githubusercontent.com/your-link/architecture.png) <!-- Replace with actual diagram if needed -->
 
 ### 4.3 Model Evaluation
 
@@ -102,8 +98,6 @@ The dataset contains both numeric and categorical variables, and missing values 
 * Albumin
 * Blood Pressure
 * Specific Gravity
-
-![SHAP Summary Plot](https://user-images.githubusercontent.com/your-link/shap-summary.png) <!-- Replace with actual plot -->
 
 The model shows consistent performance across multiple training runs and displays high reliability for clinical decision support.
 
@@ -154,3 +148,4 @@ This project demonstrates how a structured deep learning pipeline can be used fo
 
 5. UCI ML Repository: Chronic Kidney Disease Data Set
    [Link](https://archive.ics.uci.edu/ml/datasets/chronic_kidney_disease)
+

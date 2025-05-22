@@ -16,7 +16,7 @@ Chronic Kidney Disease (CKD) is often known as a silent killer. It progresses wi
 
 ---
 
-## 🗂 Project Structure
+##  Project Structure
 
 ```
 ckd-predictor-deep-learning/
